@@ -1,0 +1,11 @@
+Qt Quick Controls for LuneOS - README
+------------------------------------
+
+
+Running examples with the Lune OS style
+-------------------------------
+
+To run a QML example using the LuneOS style, execute this in directory, e.g.
+
+ cd examples/touch
+ QT_QUICK_CONTROLS_STYLE=LuneOS qmlscene main.qml

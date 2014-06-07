@@ -1,0 +1,3 @@
+module QtQuick.Controls.LuneOS
+
+plugin luneoscontrolsplugin

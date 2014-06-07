@@ -1,0 +1,9 @@
+*.user
+*.user.*
+
+Makefile
+*~
+*.so
+.qmake.cache
+.moc
+*.o
